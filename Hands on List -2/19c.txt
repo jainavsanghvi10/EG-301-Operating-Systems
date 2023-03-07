@@ -1,0 +1,5 @@
+// Program Number: 19c
+// Student Name: Jainav Sanghvi(IMT2020098)
+// Description: use strace command to find out, which command (mknod or mkfifo) is better. 
+
+Running the strace commands shows that  mkfifio is better than mknod as it takes lesser time to execute.
